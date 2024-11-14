@@ -28,3 +28,13 @@ C:\Users\grini\source\repos\ОКР\Music-Library1\Music-Library\obj\Debug\Music-
 C:\Users\grini\source\repos\ОКР\Music-Library1\Music-Library\obj\Debug\Music-Library.csproj.CoreCompileInputs.cache
 C:\Users\grini\source\repos\ОКР\Music-Library1\Music-Library\obj\Debug\Music-Library.exe
 C:\Users\grini\source\repos\ОКР\Music-Library1\Music-Library\obj\Debug\Music-Library.pdb
+D:\ХПК\Ком.Роз\LR1\Music-Library\bin\Debug\Music-Library.exe.config
+D:\ХПК\Ком.Роз\LR1\Music-Library\bin\Debug\Music-Library.exe
+D:\ХПК\Ком.Роз\LR1\Music-Library\bin\Debug\Music-Library.pdb
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music-Library.csproj.AssemblyReference.cache
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music_Library.Form1.resources
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music_Library.Properties.Resources.resources
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music-Library.csproj.GenerateResource.cache
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music-Library.csproj.CoreCompileInputs.cache
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music-Library.exe
+D:\ХПК\Ком.Роз\LR1\Music-Library\obj\Debug\Music-Library.pdb
