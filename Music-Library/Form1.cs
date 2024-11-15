@@ -78,7 +78,7 @@ namespace Music_Library
         private void очиститиМасивToolStripMenuItem_Click(object sender, EventArgs e)
         {
             musicArray.Clear();
-            MessageBox.Show("Масив очищено");
+            MessageBox.Show("Масив було очищено");
         }
 
     }
