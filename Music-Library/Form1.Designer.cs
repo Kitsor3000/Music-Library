@@ -54,7 +54,6 @@
             this.яАToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.рікToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.масивToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.записатиВМасивToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.прочитатиЗМасивууToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.очиститиМасивToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.вивестиЗаЗамовчуваннямToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -67,7 +66,7 @@
             this.button1.BackColor = System.Drawing.Color.Black;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.button1.Location = new System.Drawing.Point(571, 428);
+            this.button1.Location = new System.Drawing.Point(655, 437);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(172, 44);
@@ -82,7 +81,7 @@
             this.label1.BackColor = System.Drawing.Color.Black;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label1.Location = new System.Drawing.Point(210, 392);
+            this.label1.Location = new System.Drawing.Point(211, 391);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(69, 22);
             this.label1.TabIndex = 1;
@@ -106,7 +105,7 @@
             this.dataGridView1.RowHeadersVisible = false;
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(829, 237);
+            this.dataGridView1.Size = new System.Drawing.Size(829, 238);
             this.dataGridView1.TabIndex = 4;
             // 
             // Column1
@@ -135,16 +134,16 @@
             // 
             // txtTitle
             // 
-            this.txtTitle.Location = new System.Drawing.Point(12, 441);
-            this.txtTitle.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtTitle.Location = new System.Drawing.Point(13, 450);
+            this.txtTitle.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtTitle.Name = "txtTitle";
             this.txtTitle.Size = new System.Drawing.Size(132, 22);
             this.txtTitle.TabIndex = 3;
             // 
             // txtAuthor
             // 
-            this.txtAuthor.Location = new System.Drawing.Point(159, 441);
-            this.txtAuthor.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtAuthor.Location = new System.Drawing.Point(175, 450);
+            this.txtAuthor.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtAuthor.Name = "txtAuthor";
             this.txtAuthor.Size = new System.Drawing.Size(145, 22);
             this.txtAuthor.TabIndex = 4;
@@ -155,7 +154,7 @@
             this.label2.BackColor = System.Drawing.Color.Black;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label2.Location = new System.Drawing.Point(56, 392);
+            this.label2.Location = new System.Drawing.Point(56, 391);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(61, 22);
             this.label2.TabIndex = 5;
@@ -163,10 +162,10 @@
             // 
             // txtGenre
             // 
-            this.txtGenre.Location = new System.Drawing.Point(319, 439);
-            this.txtGenre.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtGenre.Location = new System.Drawing.Point(345, 450);
+            this.txtGenre.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtGenre.Name = "txtGenre";
-            this.txtGenre.Size = new System.Drawing.Size(100, 22);
+            this.txtGenre.Size = new System.Drawing.Size(132, 22);
             this.txtGenre.TabIndex = 6;
             // 
             // label3
@@ -175,7 +174,7 @@
             this.label3.BackColor = System.Drawing.Color.Black;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label3.Location = new System.Drawing.Point(341, 392);
+            this.label3.Location = new System.Drawing.Point(376, 391);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(65, 22);
             this.label3.TabIndex = 7;
@@ -187,7 +186,7 @@
             this.label4.BackColor = System.Drawing.Color.Black;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.label4.Location = new System.Drawing.Point(473, 392);
+            this.label4.Location = new System.Drawing.Point(530, 391);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(52, 22);
             this.label4.TabIndex = 8;
@@ -195,25 +194,26 @@
             // 
             // txtYear
             // 
-            this.txtYear.Location = new System.Drawing.Point(454, 439);
-            this.txtYear.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.txtYear.Location = new System.Drawing.Point(505, 450);
+            this.txtYear.Margin = new System.Windows.Forms.Padding(4, 2, 4, 2);
             this.txtYear.Name = "txtYear";
-            this.txtYear.Size = new System.Drawing.Size(80, 22);
+            this.txtYear.Size = new System.Drawing.Size(105, 22);
             this.txtYear.TabIndex = 9;
             // 
             // menuStrip1
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.вихідToolStripMenuItem,
-            this.файлToolStripMenuItem,
             this.очиститиToolStripMenuItem,
+            this.вивестиЗаЗамовчуваннямToolStripMenuItem,
             this.сортуваннняToolStripMenuItem,
+            this.файлToolStripMenuItem,
             this.масивToolStripMenuItem,
-            this.вивестиЗаЗамовчуваннямToolStripMenuItem});
+            this.вихідToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(828, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(827, 28);
             this.menuStrip1.TabIndex = 10;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -238,12 +238,14 @@
             this.прочитатиЗФайлуToolStripMenuItem.Name = "прочитатиЗФайлуToolStripMenuItem";
             this.прочитатиЗФайлуToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
             this.прочитатиЗФайлуToolStripMenuItem.Text = "Прочитати з файлу.";
+            this.прочитатиЗФайлуToolStripMenuItem.Click += new System.EventHandler(this.прочитатиЗФайлуToolStripMenuItem_Click);
             // 
             // записатиУФайлToolStripMenuItem
             // 
             this.записатиУФайлToolStripMenuItem.Name = "записатиУФайлToolStripMenuItem";
             this.записатиУФайлToolStripMenuItem.Size = new System.Drawing.Size(227, 26);
             this.записатиУФайлToolStripMenuItem.Text = "Записати у файл.";
+            this.записатиУФайлToolStripMenuItem.Click += new System.EventHandler(this.записатиУФайлToolStripMenuItem_Click);
             // 
             // очиститиToolStripMenuItem
             // 
@@ -265,52 +267,46 @@
             // аЯToolStripMenuItem
             // 
             this.аЯToolStripMenuItem.Name = "аЯToolStripMenuItem";
-            this.аЯToolStripMenuItem.Size = new System.Drawing.Size(117, 26);
+            this.аЯToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.аЯToolStripMenuItem.Text = "А-Я";
             this.аЯToolStripMenuItem.Click += new System.EventHandler(this.аЯToolStripMenuItem_Click);
             // 
             // яАToolStripMenuItem
             // 
             this.яАToolStripMenuItem.Name = "яАToolStripMenuItem";
-            this.яАToolStripMenuItem.Size = new System.Drawing.Size(117, 26);
+            this.яАToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.яАToolStripMenuItem.Text = "Я-А";
             this.яАToolStripMenuItem.Click += new System.EventHandler(this.яАToolStripMenuItem_Click);
             // 
             // рікToolStripMenuItem
             // 
             this.рікToolStripMenuItem.Name = "рікToolStripMenuItem";
-            this.рікToolStripMenuItem.Size = new System.Drawing.Size(117, 26);
+            this.рікToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.рікToolStripMenuItem.Text = "Рік";
             this.рікToolStripMenuItem.Click += new System.EventHandler(this.рікToolStripMenuItem_Click);
             // 
             // масивToolStripMenuItem
             // 
             this.масивToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.записатиВМасивToolStripMenuItem,
             this.прочитатиЗМасивууToolStripMenuItem,
             this.очиститиМасивToolStripMenuItem});
             this.масивToolStripMenuItem.Name = "масивToolStripMenuItem";
             this.масивToolStripMenuItem.Size = new System.Drawing.Size(68, 24);
             this.масивToolStripMenuItem.Text = "Масив";
             // 
-            // записатиВМасивToolStripMenuItem
-            // 
-            this.записатиВМасивToolStripMenuItem.Name = "записатиВМасивToolStripMenuItem";
-            this.записатиВМасивToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
-            this.записатиВМасивToolStripMenuItem.Text = "Записати в масив";
-            // 
             // прочитатиЗМасивууToolStripMenuItem
             // 
             this.прочитатиЗМасивууToolStripMenuItem.Name = "прочитатиЗМасивууToolStripMenuItem";
             this.прочитатиЗМасивууToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.прочитатиЗМасивууToolStripMenuItem.Text = "Прочитати з масивуу";
-         ;
+            this.прочитатиЗМасивууToolStripMenuItem.Click += new System.EventHandler(this.прочитатиЗМасивууToolStripMenuItem_Click);
             // 
             // очиститиМасивToolStripMenuItem
             // 
             this.очиститиМасивToolStripMenuItem.Name = "очиститиМасивToolStripMenuItem";
             this.очиститиМасивToolStripMenuItem.Size = new System.Drawing.Size(239, 26);
             this.очиститиМасивToolStripMenuItem.Text = "Очистити масив";
+            this.очиститиМасивToolStripMenuItem.Click += new System.EventHandler(this.очиститиМасивToolStripMenuItem_Click);
             // 
             // вивестиЗаЗамовчуваннямToolStripMenuItem
             // 
@@ -325,7 +321,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Yellow;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(828, 482);
+            this.ClientSize = new System.Drawing.Size(827, 498);
             this.Controls.Add(this.txtYear);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
@@ -340,7 +336,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Music-Library";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -376,7 +372,6 @@
         private System.Windows.Forms.ToolStripMenuItem яАToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem рікToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem масивToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem записатиВМасивToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem прочитатиЗМасивууToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem очиститиМасивToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem вивестиЗаЗамовчуваннямToolStripMenuItem;
